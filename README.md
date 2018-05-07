@@ -1,4 +1,4 @@
-Year 1 assignment - Stock Control Simulation
+Stock Control Simulation
 ---------------------------------------------
 
 Simple stock control simulation that has an administrative privileges in order to add,
